@@ -4,3 +4,4 @@
 2. Added a `vercel.json` file for SPA routes, following the documentation from https://vercel.com/docs/project-configuration
 3. Ran `vercel dev`, accepting the default settings
 4. Browser console displays 404 errors for `@vite/client` and `src/main.js`
+
